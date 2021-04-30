@@ -1,0 +1,6 @@
+[submodule "gf-backend"]
+	path = gf-backend
+	url = https://github.com/Tadam1122/gf-backend
+[submodule "gf-frontend"]
+	path = gf-frontend
+	url = https://github.com/Tadam1122/gf-frontend
